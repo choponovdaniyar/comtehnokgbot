@@ -1,0 +1,4 @@
+aiogram
+bs4
+fake_useragent
+requests 
