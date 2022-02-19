@@ -1,2 +1,2 @@
-# ComTechno_timetable_bot
+# comtehokgbot
 bot for getting ComTechno timetable
