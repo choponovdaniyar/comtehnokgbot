@@ -1,4 +1,8 @@
-aiogram
-bs4
-fake_useragent
-requests 
+aiogram==2.17.1
+aiohttp==3.8.1
+asyncio==3.4.3
+beautifulsoup4==4.10.0
+bs4==0.0.1
+fake-useragent==0.1.11
+requests==2.26.0
+lxml==4.6.4
